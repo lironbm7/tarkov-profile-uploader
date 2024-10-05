@@ -11,7 +11,7 @@ To run the SPT server and upload profiles after the server shuts down, use the p
 ### Configuration
 
 1. Edit `constants.py` to use the correct paths for `PROFILES_DIRECTORY`, `CREDENTIALS_FILE_PATH`
-2. Edit `run_spt_server.bat` to use the correct paths for the `SPT.Server.exe` and `upload_profiles.py`
+2. Edit `run_spt_server.bat` to use the correct paths for `SPT_SERVER_DIRECTORY`, `SCRIPT_DIRECTORY`
 
 
 ### Google Drive Setup
