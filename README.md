@@ -1,5 +1,7 @@
 # SPT Profile Uploader
 
+![image](https://github.com/user-attachments/assets/772a1dd9-9427-4558-98c4-61e56b44f828)
+
 > ### 💡 Context
 > When you play on a hosted server, your SPT (Single Player Tarkov) profile is only saved on that server. This means that when you switch to your own local server, you won’t have access to the profile's .json file since it was stored solely on the host machine. **The SPT Profile Uploader** addresses this issue by automatically uploading all profiles to a shared Google Drive, allowing players to easily download their profiles each time the server shuts down.
 
