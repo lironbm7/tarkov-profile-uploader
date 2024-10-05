@@ -1,10 +1,7 @@
 # SPT Profile Uploader
 
-![image](https://github.com/user-attachments/assets/772a1dd9-9427-4558-98c4-61e56b44f828)
-
 > ### 💡 Context
 > When you play on a hosted server, your SPT (Single Player Tarkov) profile is only saved on that server. This means that when you switch to your own local server, you won’t have access to the profile's .json file since it was stored solely on the host machine. **The SPT Profile Uploader** addresses this issue by automatically uploading all profiles to a shared Google Drive, allowing players to easily download their profiles each time the server shuts down.
-
 
 
 ### Usage
@@ -34,3 +31,10 @@ To run the SPT server and upload profiles after the server shuts down, use the p
 2. Activate the virtual environment (Windows: `venv\Scripts\activate`, macOS/Linux: `source venv/bin/activate`)
 
 3. Install the required dependencies from the requirements.txt file (`pip install -r requirements.txt`)
+
+
+### Screenshots
+
+![image](https://github.com/user-attachments/assets/66875039-9a04-47f9-810b-ee5b231d2868)
+
+![image](https://github.com/user-attachments/assets/0fba2cc9-416c-4d97-b2a7-fa66045f9a4b)
